@@ -1,11 +1,1 @@
-malzemeler = {"elma": 3, "armut": 5, "mandalina": 6}
 
-elma = int(input("Kaç kg elma alacaksınız ==> "))
-armut = int(input("Kaç kg armut alacaksınız ==> "))
-mandalina = int(input("Kaç kg mandalina alacaksınız ==> "))
-
-toplam = elma * malzemeler.get("elma") + 
-armut * malzemeler.get("armut") +
-mandalina * malzemeler.get("mandalina")
-
-print("Toplam tutarınız ==> ", toplam)
