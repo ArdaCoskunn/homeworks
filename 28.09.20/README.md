@@ -20,7 +20,7 @@ Bilgisayarda **`Projects`** adında bi klasör oluşturalım. Her soru için bir
 	Aşağıdaki metnin içinde **"b"** harfi ile başlayan kaç adet kelime olduğunu bulan programı oluşturunuz.
 
 	```
-	Güneşli bir yaz günüymüş, anne ördek gölün kenarındaki ağacın altında yumurtlamak için güzel bir yer bulmuş. Beş yumurta yumurtlamış, birden yumurtalarından birinin diğerinden farklı olduğunu fark etmiş. Biraz endişelenmiş, sonra yumurtaların çatlamasını beklemiş. Güzel bir sabah, nihayet birbiri peşi sıra yumurtalar kırılmaya başlamış. Cik, cik demişler bütün yumurtalar canlanmış, ördek yavruları başlarını büyük dünyaya doğru uzatıyorlarmış."""
+	Güneşli bir yaz günüymüş, anne ördek gölün kenarındaki ağacın altında yumurtlamak için güzel bir yer bulmuş. Beş yumurta yumurtlamış, birden yumurtalarından birinin diğerinden farklı olduğunu fark etmiş. Biraz endişelenmiş, sonra yumurtaların çatlamasını beklemiş. Güzel bir sabah, nihayet birbiri peşi sıra yumurtalar kırılmaya başlamış. Cik, cik demişler bütün yumurtalar canlanmış, ördek yavruları başlarını büyük dünyaya doğru uzatıyorlarmış.
 	```
 	> **! Hem büyük hem de küçük harfleri dahil etmeyi unutmayın** 
 
